@@ -3,9 +3,10 @@
 
 <img width="860" height="484" alt="image" src="https://github.com/user-attachments/assets/9f1a607a-f2b0-4444-9524-02a56000b6ab" /><br><br>
 
-<img width="860" height="484" alt="1" src="https://github.com/user-attachments/assets/550d56e4-eb0c-4846-9ac0-79ff0c32b021" /><br>
-
-<img width="860" height="484" alt="2" src="https://github.com/user-attachments/assets/df52f0e3-bc54-4eae-9872-c1f7577dc39f" /><br><br>
+# 참여인원
+멘토 & PL : 이현재, 노아론<br>
+개발팀 : 김민아(PM), 채민(개발팀장), 김장원, 김민재<br>
+공격팀 : 정진교(공격팀장), 김선정, 김동규<br>
 
 <img width="860" height="484" alt="image" src="https://github.com/user-attachments/assets/f511c37f-1560-4b81-a824-d6a3b122d9fc" /><br><br>
 
